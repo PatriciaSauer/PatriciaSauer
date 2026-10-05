@@ -1,16 +1,14 @@
-## Hi there 👋
+### Hi, I'm Patricia 👋
 
-<!--
-**PatriciaSauer/PatriciaSauer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Independent software developer from Germany, building apps for iOS and Android, and World of Warcraft addons in my spare time.
 
-Here are some ideas to get you started:
+**📱 Mobile apps:** 11 apps on the App Store and Google Play, including *Monsty & Friends* (calm, colorful learning games for kids: math, memory, shapes, drawing) and *Spinno*, a fast arcade game.
+→ [patricia-sauer.com](https://patricia-sauer.com)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**🎮 WoW addons:** tools that take the tedious parts out of collecting and farming.
+- [Battle Pet Collector](https://www.curseforge.com/wow/addons/battle-pet-collector): browse and track battle pets by zone and expansion
+- [Auto Trash](https://www.curseforge.com/wow/addons/auto-trash): keeps your bags free while farming old dungeons and raids
+
+→ [patricia.codes](https://patricia.codes)
+
+Most of my work lives in private repositories. The contribution graph below shows the activity.
